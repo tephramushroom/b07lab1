@@ -34,7 +34,6 @@ public class Polynomial {
 			res[i]=v1 + v2;
 		}
 		Polynomial s = new Polynomial(res);
-//		System.out.println(res[0]+"xx"+res[1]+"xx"+res[2]+"xx"+res[3]+"xx"+res[4]);
 		return s;
 	}
 	
